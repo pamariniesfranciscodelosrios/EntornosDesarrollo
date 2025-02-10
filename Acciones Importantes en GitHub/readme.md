@@ -1,8 +1,6 @@
-## Control de versiones con Git Hub
+### **Acciones más importantes en GitHub**
 
-Clase del viernes 14/2/25 con la colaboración del alumnado de 2º DAM IES Francisco de los Ríos
-
-## Objetivos
+GitHub ofrece diversas funcionalidades para facilitar la gestión de proyectos y la colaboración en equipo. Aquí están las más importantes:
 
 ### **1. Repositorios (Repositories)**
 
@@ -34,46 +32,24 @@ git merge nueva-rama  # Unir los cambios a otra rama
 
 Solicitud para que los cambios de una rama sean revisados y fusionados en otra. Fundamental en trabajo colaborativo.
 
-## Actividades
+### **6. Issues**
 
-Vamos a probar el control de versiones con ejemplos breves de código Java
+Se usan para reportar errores, sugerir mejoras y gestionar tareas dentro de un proyecto.
 
-### Actividad 1:
+### **7. Actions (CI/CD)**
 
-`Alumno: Nombre Apellido`
+Automatización de pruebas, despliegues y otras tareas mediante flujos de trabajo personalizados.
 
-### Actividad 2:
+### **8. Wikis y Documentación**
 
-`Alumno: Nombre Apellido`
+Espacio para documentar el proyecto, su instalación y uso.
 
-### Actividad 3:
+### **9. Releases**
 
-`Alumno: Nombre Apellido`
+Permiten generar versiones estables del proyecto para su distribución.
 
-### Actividad 4:
+### **10. GitHub Projects**
 
-`Alumno: Nombre Apellido`
+Sistema de gestión de tareas tipo Kanban para organizar el desarrollo del proyecto.
 
-### Actividad 5:
-
-`Alumno: Nombre Apellido`
-
-### Actividad 6:
-
-`Alumno: Nombre Apellido`
-
-### Actividad 7:
-
-`Alumno: Nombre Apellido`
-
-### Actividad 8:
-
-`Alumno: Nombre Apellido`
-
-### Actividad 9:
-
-`Alumno: Nombre Apellido`
-
-### Actividad 10:
-
-`Alumno: Nombre Apellido`
+Con estas acciones, GitHub se convierte en una herramienta esencial para el desarrollo de software y la colaboración en equipo.
