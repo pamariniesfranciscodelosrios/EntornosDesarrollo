@@ -6,7 +6,7 @@
 
 Crear documentación con Readme en proyectos alojados en repositorios de versiones como GitHub es una práctica recomendada, donde facilitas infomación relevante acerca de tu proyeto
 
-# Ejemplo de Readme para proyecto:
+# Ejemplo de Readme.md para proyecto:
 
 **Proyecto Java: Gestor de Tareas**
 
