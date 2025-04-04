@@ -2,6 +2,7 @@ package org.example;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import org.example.User;
 import org.junit.jupiter.api.Test;
 
 class UserTest {
