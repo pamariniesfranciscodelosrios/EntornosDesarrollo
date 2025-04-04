@@ -4,21 +4,77 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d581def2-d53c-477b-a846-f74b2fd91fb4" name="Changes" comment="Borrando carpeta UD5">
-      <change afterPath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/Test Results - StringUtilsTest.html" afterDir="false" />
+    <list default="true" id="ea3b03b2-273e-4f34-960d-71f98f6475ce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/EntornosDesarrollo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EntornosDesarrollo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/src/test/java/org/example/ToDoListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/src/test/java/org/example/ToDoListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/src/test/java/org/example/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/src/test/java/org/example/UserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Acciones Importantes en GitHub/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739289547496.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739289622059.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739289637718.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739289747473.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739289787244.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739289933261.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739289978367.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739289992792.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739290023952.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739338156089.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739338197134.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739338237290.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739338319293.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739338376411.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739338424796.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739338538085.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739338701301.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739338740260.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739338918039.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/image/readme/1739340787028.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Cofiguración en IntelliKJ/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Configuracion desde terminal/image/readme/1739341963499.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Configuracion desde terminal/image/readme/1739342095448.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Configuracion desde terminal/image/readme/1739342161991.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Configuracion desde terminal/image/readme/1739342214974.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Configuracion desde terminal/image/readme/1739342368127.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Configuracion desde terminal/image/readme/1739342403073.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Configuracion desde terminal/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Configuración inicial/image/readme/1739226176378.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Configuración inicial/image/readme/1739226224139.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Configuración inicial/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Jueves 13/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/README2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Viernes14/image/readme/1739468255628.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Viernes14/image/readme/1739468302112.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/Viernes14/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/image/entornos/1739222353434.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/image/entornos/1739223056495.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/image/entornos/1739223137615.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/image/entornos/1739223228805.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD3 D Clase/image/entornos/1739223793029.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5 Testing/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/Test Results - StringUtilsTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/assets/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/src/main/java/org/example/StringUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/src/main/java/org/example/ToDoList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/src/main/java/org/example/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/src/test/java/org/example/StringUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/src/test/java/org/example/ToDoListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5 Testing/UD5_Testeando/src/test/java/org/example/UserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5 Testing/assets/image.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$/UD5 Testing/UD5_Testeando" userTempatePath="" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -31,93 +87,40 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/pamariniesfranciscodelosrios/EntornosDesarrollo.git&quot;,
-    &quot;accountId&quot;: &quot;d648b5f9-cb40-4961-b8c9-2bab2ef0b708&quot;
+    &quot;accountId&quot;: &quot;15c670e8-3eba-4ed4-9560-a29c7bd39fdb&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
+  &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2vE2K1fTqOTZGfD21ao8l1uEuOd" />
+  <component name="ProjectId" id="2vDZ5SztZA5eDAUO3NTWlpKYxd2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.StringUtilsTest.executor": "Run",
-    "JUnit.ToDoListTest.executor": "Run",
-    "JUnit.UserTest.executor": "Run",
-    "JUnit.java.org.example in EntornosDesarrollo.executor": "Run",
-    "Maven.Unnamed.executor": "Run",
-    "Maven.mav.executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/anton/IdeaProjects/EntornosDesarrollo/UD5 Testing/UD5_Testeando",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pamarin/IdeaProjects/EntornosDesarrollo/UD5 Testing&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pamarin\IdeaProjects\EntornosDesarrollo\UD5 Testing" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d581def2-d53c-477b-a846-f74b2fd91fb4" name="Changes" comment="" />
-      <created>1743695844460</created>
+      <changelist id="ea3b03b2-273e-4f34-960d-71f98f6475ce" name="Changes" comment="" />
+      <created>1743681421491</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1743695844460</updated>
-      <workItem from="1743695845512" duration="59000" />
+      <updated>1743681421491</updated>
     </task>
-    <task id="LOCAL-00001" summary="Borrando carpeta UD5">
-      <option name="closed" value="true" />
-      <created>1743747472315</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1743747472315</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Borrando carpeta UD5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Borrando carpeta UD5" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/UD5 Testing/UD5_Testeando/src/test/java/org/example/StringUtilsTest.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/EntornosDesarrollo$java_org_example_in_EntornosDesarrollo.ic" NAME="java.org.example in EntornosDesarrollo Coverage Results" MODIFIED="1743751275635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
-      <FILTER>java.org.example.*</FILTER>
-    </SUITE>
   </component>
 </project>
